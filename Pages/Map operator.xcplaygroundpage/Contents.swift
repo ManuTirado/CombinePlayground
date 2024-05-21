@@ -3,7 +3,7 @@
 import Foundation
 import Combine
 
-// MARK: Map int from publisher to string of subscriber
+// MARK: Map int from publisher to string
 
 let intPublisher = PassthroughSubject<Int, Never>()
 
